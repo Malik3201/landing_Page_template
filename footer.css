@@ -1,0 +1,66 @@
+.frame16{
+
+text-align: center;
+align-content: center;
+padding-top: 32px;
+padding-bottom: 32px;
+gap: 32px;
+background-color: #F5F7FA;
+}
+body{
+    font-family: "Inter", serif;
+}
+.f16_txt{
+font-size: 64px;
+}
+.f16_btn{
+width: 178px;
+height: 52px;
+border-radius: 4px;
+border: none;
+padding-top: 14px;
+padding-right: 32px;
+padding-bottom: 14px;
+padding-left: 32px;
+margin: 25px;
+gap: 8px;
+background-color: #4CAF4F;
+color: white;
+}
+
+
+.footer{
+    background-color: #263238;
+    padding-top: 64px;
+    padding-right: 165px;
+    padding-bottom: 64px;
+    padding-left: 165px;
+    display: flex;
+    gap: 110px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+.company_info{
+gap: 100px;
+}
+
+.copyright_1{
+    margin-top: 40px;
+color: #F5F7FA;
+font-size: 14px;
+}
+.copyright_2{
+    margin-bottom: 40px;
+    color: #F5F7FA;
+    font-size: 14px;
+}
+.social_links{
+width: 176px;
+height: 32px;
+}
+.list{
+    display: flex;
+}
+

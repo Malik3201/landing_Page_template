@@ -1,0 +1,123 @@
+body{
+     font-family: "Inter", serif;
+}
+.clients{
+    
+    justify-content: center;
+    text-align: center;
+
+}
+.p_client{
+    font-size: 36px;
+    color: #18191F;
+    font-weight: 400;
+    height: 20px;
+   
+
+}
+.disc_p_client{
+    font-size: 16px;
+    color: #717171;
+    font-weight: 400;
+}
+.client_ic_list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    /* align-items: space-between; */
+    gap: 150px;
+}
+.clnt_ic{
+width: 48px;
+height: 48px;
+border-radius: 8px;
+border: none;
+}
+.community{
+
+height: 416px;
+justify-items: center;
+text-align: center;
+justify-content: center;
+}
+.community_txt_sc{
+height: 120px;
+gap: 8px;
+}
+.sec_title{
+    font-size: 36px;
+    text-align: center;
+    height: 88px;
+    color: #4D4D4D;
+}
+.sec_dis{
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+text-align: center;
+color: #717171;
+}
+.frame4{
+ display: flex;
+ justify-content: space-between;
+ gap: 10%;
+
+}
+.memb_org{
+width: 299px;
+
+border-radius: 8px;
+border: none;
+padding-top: 24px;
+padding-right: 32px;
+padding-bottom: 24px;
+padding-left: 32px;
+justify-content: center;
+justify-items: center;
+
+}
+.natinl_asso{
+    width: 299px;
+   
+    border-radius: 8px;
+border: none;
+padding-top: 24px;
+padding-right: 32px;
+padding-bottom: 24px;
+padding-left: 32px;
+justify-items: center;
+
+
+}
+.club_grp{
+    width: 299px;
+   
+    border-radius: 8px;
+border: none;
+padding-top: 24px;
+padding-right: 32px;
+padding-bottom: 24px;
+padding-left: 32px;
+justify-items: center;
+
+
+}
+
+.icon{
+width: 65px;
+height: 56px;
+}
+.heading{
+width: 267px;
+
+
+font-size: 28px;
+color: #000000;
+}
+.discription{
+width: 251px;
+text-align: center;
+font-size: 14px;
+color: #717171;
+}

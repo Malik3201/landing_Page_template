@@ -1,0 +1,50 @@
+body{
+   font-family: "Inter", serif;
+}
+ .container{
+    display: flex;
+    padding-top: 96px;
+    padding-left: 144px;
+    padding-right: 144px;
+    padding-bottom: 96px;
+ }
+ .img{
+    width: 391px;
+    height: 407px;
+
+
+ }
+ .text{
+width: 657px;
+height: 276px ;
+ 
+ }
+ .s1{
+     font-size: 64px ;
+     color: background #000000;
+     ;
+ }
+ .s2{
+    font-size: 64px;
+    color: #4CAF4F ;
+
+ }
+ .p1{
+    font-size: 16px;
+    line-height: 24px;
+    color: #717171;
+
+ }
+ .btn_register{
+  width: 128px;
+  height: 52px;
+  gap: 10px;
+  background-color: #4CAF4F; 
+  border: none;
+  color: white;
+  border-radius: 4px;
+  padding-top: 14px;
+  padding-right: 32px;
+  padding-bottom: 14px;
+  padding-left: 32px; 
+ }
